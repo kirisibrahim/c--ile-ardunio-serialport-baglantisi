@@ -1,0 +1,10 @@
+C:\Users\kiris\Desktop\IOT deneme\bin\Debug\IOT deneme.exe.config
+C:\Users\kiris\Desktop\IOT deneme\bin\Debug\IOT deneme.exe
+C:\Users\kiris\Desktop\IOT deneme\bin\Debug\IOT deneme.pdb
+C:\Users\kiris\Desktop\IOT deneme\obj\Debug\IOT deneme.csproj.AssemblyReference.cache
+C:\Users\kiris\Desktop\IOT deneme\obj\Debug\IOT_deneme.Form1.resources
+C:\Users\kiris\Desktop\IOT deneme\obj\Debug\IOT_deneme.Properties.Resources.resources
+C:\Users\kiris\Desktop\IOT deneme\obj\Debug\IOT deneme.csproj.GenerateResource.cache
+C:\Users\kiris\Desktop\IOT deneme\obj\Debug\IOT deneme.csproj.CoreCompileInputs.cache
+C:\Users\kiris\Desktop\IOT deneme\obj\Debug\IOT deneme.exe
+C:\Users\kiris\Desktop\IOT deneme\obj\Debug\IOT deneme.pdb
